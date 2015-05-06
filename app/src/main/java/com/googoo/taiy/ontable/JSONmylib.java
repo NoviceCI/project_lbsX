@@ -15,7 +15,7 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 
 /**
- * Created by Taiy on 4/4/2558.llllllllllllllllllllll
+ * Created by Taiy on 4/4/2558.
  */
 public class JSONmylib {
 
